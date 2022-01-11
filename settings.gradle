@@ -1,0 +1,2 @@
+rootProject.name='Cmse419_lab6_task2'
+include ':app'
